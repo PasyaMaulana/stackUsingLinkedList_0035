@@ -10,6 +10,6 @@ public:
 
     Node()
     {
-        next = NULL
+        next = NULL;
     }
 };
